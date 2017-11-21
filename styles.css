@@ -1,0 +1,18 @@
+.my-class {
+      display: flex;
+      justify-content: space-around;
+      align-items: flex-start;
+      flex-direction: column;
+    }
+li{
+	 padding: 5px;
+}
+body {
+    background-color: lightblue;
+}
+header{
+	text-align: center;
+	font-size: 40px;
+    
+
+}
